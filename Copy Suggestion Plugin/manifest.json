@@ -1,0 +1,20 @@
+{
+  "id": "AWX-FIGMA-TEXTPILOT-v1.2.0",
+  "name": "AWX FIGMA TEXTPILOT v1.2.0",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "https://cdn.jsdelivr.net",
+      "https://unpkg.com",
+      "https://cdn.tailwindcss.com/3.3.2",
+      "https://figma-plugin-textpilot.platform.gcp-sg.staging.awx.im",
+      "https://staging.airwallex.com"
+    ]
+  }
+}
